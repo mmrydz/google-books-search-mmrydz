@@ -47,7 +47,7 @@ Express routes include:
 
 * (get) - Loads a single HTML page in client/build/index.html. 
 
-The application was deployed to Heroku here: 
+The application was deployed to Heroku here: https://google-books-search-mmrydz.herokuapp.com/
 
 Create React App and current versions of React and React-Router-Dom were used for this assignment.
 
